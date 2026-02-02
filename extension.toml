@@ -8,4 +8,4 @@ repository = "https://github.com/bobrocke/zed-vento"
 
 [grammars.vento]
 repository = "https://github.com/bobrocke/tree-sitter-vento/"
-commit = "1cb29dbad84c01246bf4c6380dacfe398657269b"
+commit = "d94fd182e2adb6cacff47a0b4e0773e31e6e3682"
