@@ -85,5 +85,5 @@ See [LICENSE](LICENSE) file for details.
 ## Credits
 
 - Original extension by [Deniz Akşimşek](https://github.com/dz4k)
-- Grammar updates and front matter support by Bob Rocke
-- Based on [tree-sitter-vento](https://github.com/bobrocke/tree-sitter-vento)
+- Grammar updates and front matter support by Bob Rockefeller
+- Based on [tree-sitter-vento](https://codeberg.org/dz4k/zed-vento)
