@@ -1,6 +1,6 @@
-# Zed-Vento
+# Vento-Improved
 
-Adds support for the Vento template language to the Zed code editor.
+Adds improved support for the Vento template language to the Zed code editor.
 
 ## Features
 
@@ -41,7 +41,7 @@ layout: base.vto
 <body>
   <h1>{{ title }}</h1>
   <p>Date: {{ date }}</p>
-  
+
   {{ for tag of tags }}
     <span>{{ tag }}</span>
   {{ /for }}
